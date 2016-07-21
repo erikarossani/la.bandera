@@ -1,0 +1,23 @@
+div#body{
+	margin: auto;
+	margin-top: 20px;
+	width: 900px;
+	height: 300px;
+
+}
+
+.yellow{
+	font-size: 30px;
+	background: yellow;
+	float: left;
+	margin: 6px;
+
+}
+	
+
+.red{
+	font-size: 30px;
+	background: red;
+	float: left;
+	margin: 6px;
+}
