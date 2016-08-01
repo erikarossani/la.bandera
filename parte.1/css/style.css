@@ -1,18 +1,15 @@
-
-.yellow{
-	width: 600px;
-	height: 200px;
-	font-size: 30px;
-	background: yellow;
-	margin:auto;
-
+.caja {	
+	height: 100px;
 }
-	
 
-.red{
-	width: 600px;
-	height: 200px;
-	font-size: 30px;
+.red {
 	background: red;
-	margin:auto;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }

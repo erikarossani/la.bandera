@@ -1,23 +1,21 @@
-div#body{
-	margin: auto;
-	margin-top: 20px;
-	width: 900px;
-	height: 300px;
-
+.caja {	
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	display: inline;
+	margin-right: 15px;
 }
 
-.yellow{
-	font-size: 30px;
-	background: yellow;
-	float: left;
-	margin: 6px;
-
-}
-	
-
-.red{
-	font-size: 30px;
+.red {
 	background: red;
-	float: left;
-	margin: 6px;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }

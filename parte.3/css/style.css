@@ -1,27 +1,21 @@
-div#body{
-	margin: auto;
-	margin-top: 20px;
-	width: 900px;
-	height: 300px;
-
+d.caja {	
+	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-right: 15px;
 }
 
-.yellow{
-	width: 300px;
-	height: 300px;
-	background: yellow;
-	float: left;
-	margin: 6px;
-
-}
-	
-
-.red{
-	width: 300px;
-	height: 300px;
+.red {
 	background: red;
-	float: left;
-	margin: 6px;
+}
 
+.yellow {
+	background: yellow;
+}
 
+.inline-block {
+	display: inline-block;
 }
